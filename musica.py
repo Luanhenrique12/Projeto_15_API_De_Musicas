@@ -2,7 +2,7 @@ import requests
 from datetime import datetime
 import textwrap
 
-====
+
 
 def buscar_artista(nome_artista):
     """
